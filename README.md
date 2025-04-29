@@ -1,1 +1,1 @@
-# Crcedit-EDA
+# Credit-EDA
